@@ -1,0 +1,7 @@
+[{
+	file:'/css/global.css',
+	description:'Global Style Sheets'
+},{
+	file:'/js/shadowbox-3.0.3/shadowbox.css',
+	description:'ShadowBox'
+}]

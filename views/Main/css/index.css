@@ -1,0 +1,57 @@
+#flashContent { display:none; }
+
+img.menuCaret {
+	position:relative;
+	top:-3px;
+	padding-right:6px;
+}
+
+.mnuItems {
+	margin:0px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-weight:normal;
+	font-size:11px;
+	line-height:21px;
+}
+
+.mnuItems a {  }
+.mnuItems a:hover {  }
+.mnuItems a:visit {  }
+.mnuItems a:link {  }
+
+div.switch {
+	display:block;
+	cursor:pointer;
+	width:45px;
+	height:19px;
+	background-image:url(/assets/img/Switch/SwitchBackground.png);
+	background-repeat:no-repeat;
+	background-color:#edc;
+/*	border:2px solid #ddd; */
+}
+
+div.switchOff {
+	display:block;
+	cursor:pointer;
+	width:21px;
+	height:15px;
+	position:relative;
+	top:2px;
+	left:22px;
+	background-image:url(/assets/img/Switch/SwitchOff.png);
+	background-repeat:no-repeat;
+	background-color:#edc;
+}
+
+div.switchOn {
+	display:block;
+	cursor:pointer;
+	width:21px;
+	height:15px;
+	position:relative;
+	top:2px;
+	left:2px;
+	background-image:url(/assets/img/Switch/SwitchOn.png);
+	background-repeat:no-repeat;
+	background-color:#dec;
+}

@@ -1,0 +1,1 @@
+<a id="viewerPlaceHolder" style="width:968px;height:650px;display:block;"></a>

@@ -1,0 +1,16 @@
+[{
+	name:'Database',
+	type:'component',
+	class:'com.System.DatabaseObject',
+	init:true
+},{
+	name:'Content',
+	type:'component',
+	class:'com.Content.ContentObject',
+	init:true
+},{
+	name:'Mail',
+	type:'component',
+	class:'com.Mail.MailObject',
+	init:true
+}]
